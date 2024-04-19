@@ -44,7 +44,7 @@ def get_cpu_usage():
     return psutil.cpu_percent(interval=1)
 
 def main():
-    n = 1000  # Size of matrices (1k)
+    n = 2500  # Size of matrices (1k)
     num_matrices = 100
     constant_matrix = np.identity(n)  # Use identity matrix of size n
 

@@ -1,4 +1,4 @@
-<img width="999" alt="Screenshot 2024-04-13 at 5 51 15 PM" src="https://github.com/yashasgarg12/Multihreading-Assignment/assets/107528489/a65d0e06-819c-48ee-bf80-fe50b2cf0dad">
+<img width="988" alt="Screenshot 2024-04-19 at 11 47 24 AM" src="https://github.com/yashasgarg12/Multihreading-Assignment/assets/107528489/9c947d56-9302-4a42-9e97-55e73605b3ef">
 
 
 
@@ -57,5 +57,7 @@ This code implements a multithreaded approach to perform matrix multiplication w
 
 This code demonstrates a more comprehensive approach to multithreaded matrix multiplication. It not only performs the calculations but also analyzes the performance by measuring execution time for different thread configurations. This analysis helps you understand how thread count affects performance and determine the optimal number of threads for your specific hardware and workload.
 
-<img width="761" alt="Screenshot 2024-04-13 at 5 51 28 PM" src="https://github.com/yashasgarg12/Multihreading-Assignment/assets/107528489/ba925211-1796-455c-9517-a0bf4156e66d"><img width="294" alt="Screenshot 2024-04-13 at 5 52 05 PM" src="https://github.com/yashasgarg12/Multihreading-Assignment/assets/107528489/670cd8dc-1d90-4c6f-8998-99f8ce04e19f">
+
+<img width="792" alt="Screenshot 2024-04-19 at 11 47 39 AM" src="https://github.com/yashasgarg12/Multihreading-Assignment/assets/107528489/87c4dc4d-f746-49d4-b15f-8ffa71ab92d2">
+<img width="292" alt="Screenshot 2024-04-19 at 11 50 03 AM" src="https://github.com/yashasgarg12/Multihreading-Assignment/assets/107528489/44e164ea-99f9-406d-b0eb-9a440a26cd96">
 
